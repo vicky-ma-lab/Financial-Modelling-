@@ -1,1 +1,1 @@
-Financial Modelling Project - Click 'raw data' to download Excel
+Financial Modelling Project - Click 'view raw' to download Excel
