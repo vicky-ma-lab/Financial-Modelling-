@@ -1,7 +1,6 @@
 Financial Modelling Project 
 ## 📥 Download the Excel Model
-- [➡️ Click here to download the full Excel model](./Starbucks_Financial_Model.xlsx)
-- *Tip: On GitHub, select “View raw” to start the download.*
+- [➡️ Click here to download the full Excel model](https://github.com/vicky-ma-lab/Financial-Modelling-/raw/refs/heads/main/Starbucks%20Corporation%20-%20Financial%20and%20Valuation%20Model.xlsx)
 
 ## 📌 Overview
 This project presents a comprehensive financial modeling and valuation analysis of Starbucks Corporation (NASDAQ: SBUX), following industry's standard. It showcases proficiency in financial analysis, 3-statement modeling, DCF, and comparable company analysis using Starbucks’ public filings and market data.
