@@ -17,12 +17,12 @@ This project presents a comprehensive financial modeling and valuation analysis 
 - Applied both Perpetuity Growth and Exit Multiple methods
 
 ### Trading Comps
-- Peer set includes McDonald's, Yum! Brands, and other relevant restaurant/consumer peers
+- Peer set includes McDonald's, Restaurant Brands International Inc. and Keurig Dr Pepper
 - Valuation multiples: EV/Revenue and EV/EBITDA
 
 ### Football Field Chart
 - Aggregated multiple valuation outcomes into a single visual output to assess valuation range
 
 ## 🔎 Scenario & Sensitivity Analysis
-- Analyzed valuation impact under different assumptions (revenue growth, margin expansion, WACC)
+- Analyzed valuation impact under different assumptions (revenue growth, gross profit margin)
 - Built dynamic sensitivity tables in Excel to test key input drivers
